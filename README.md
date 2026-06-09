@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-pillow-wet-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Empty Pillow Wet Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-pillow-wet-tears/) |
+| **Get License** | [Official Music Licensing for Empty Pillow Wet Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-pillow-wet-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Empty pillow, wet tears, falling through the night
+> I just need your body here to make it feel so right
+> Tracing every memory we made upon this bed
+> While your gentle whispers keep echoing in my head
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
